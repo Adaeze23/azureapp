@@ -1,2 +1,2 @@
 # azureapp
-This is app to be deployed on azure
+This is an app to be deployed on azure
